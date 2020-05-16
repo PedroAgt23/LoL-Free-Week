@@ -1,2 +1,3 @@
 # LoL-Free-Week
-Made with a Riot Api
+- Atualização automatica da free week do lol 
+[PHP] [Riot api]
